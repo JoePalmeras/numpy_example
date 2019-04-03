@@ -6,7 +6,7 @@ python -m pip install -U pip
 Create 'requirements.txt' with 'pipreqs':
 -----------------------------------------
 
-pipreqs G:\Daten\Privat\python\Tutorial_1			//Beispielpfad
+pipreqs G:\...\...\...\Tutorial_1			//Beispielpfad
 
 Erzeuge mit 'virtualenv' ein Ordner für Virtuelle Maschiene:
 ------------------------------------------------------------
